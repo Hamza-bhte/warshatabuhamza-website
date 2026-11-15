@@ -1,0 +1,6 @@
+{
+  "name": "Apex Precision Welding & Metal Fabrication",
+  "description": "World-class industrial welding workshop and structural metal fabrication services. ASME & AWS certified structural steel, pressure piping, CNC cutting, and on-site welding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
