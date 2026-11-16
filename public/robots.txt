@@ -1,13 +1,5 @@
-User-agent: Googlebot
-Allow: /
-Disallow:
-
-User-agent: Googlebot-Image
-Allow: /
-Disallow:
 
 User-agent: *
 Allow: /
-Disallow:
 
-Sitemap: https://apex-precision-welding-metal-fabrication.ai.studio/sitemap.xml
+Sitemap: https://warshatabuhamza.netlify.app/sitemap.xml
